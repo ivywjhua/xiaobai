@@ -4,6 +4,16 @@
 -SIGINT is ignored by shell for backend job.
 
 -
+Server
+Connector(Protocol Handler), Processor(Service Handler)
+
+Server/Service/Connector, Adapter, ServletContainer
+Connector/Acceptor, Poller, Executor
+Cotainer/Engine, Host, Context, Wrapper
+
+Each app has its own classloader and thread must change classloader when entering or exit from webapp
+
+
 
 
 
