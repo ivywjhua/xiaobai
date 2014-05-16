@@ -8,7 +8,30 @@ http://sexywp.com/oauth-history.htm
 -oauth csrf?
 
 
+cas token.....
+token to get user info ........
 
+https://developers.google.com/accounts/docs/OAuth2WebServer
+https://developers.google.com/accounts/docs/OAuth2Login
+
+
+-Google Accounts Authentication and Authorization
+ -(Using OAuth 2.0 for Login, OAuth 2.0 authorization)
+ -Google+, easy to integrate across different devices
+ -OAuth2, an authorization protocol for all Google APIs.
+ -Login with OAuth 2.0, a replacement for OpenID
+
+
+
+index.html and javascript
+-forming the URL, cloud print link(auto link to google authorization)
+-handling the response, handle response link();
+-calling a google API
+
+http://open.weibo.com/wiki/Oauth
+http://open.weibo.com/wiki/%E6%8E%88%E6%9D%83%E6%9C%BA%E5%88%B6
+https://code.google.com/p/weibo4j/
+http://blog.csdn.net/xyw_blog/article/details/8907918
 
 
 
