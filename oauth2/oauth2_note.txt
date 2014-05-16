@@ -1,0 +1,24 @@
+
+http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html
+http://www.ruanyifeng.com/blog/2011/03/url_hash.html
+http://sexywp.com/oauth-history.htm
+
+
+-how to interact with google, twitter, facebook?
+-oauth csrf?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
